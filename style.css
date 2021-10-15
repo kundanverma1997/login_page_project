@@ -1,0 +1,28 @@
+body{
+    background-image: url(body_background.jpg);
+}
+
+#loginform{
+background-color:whitesmoke;
+background-attachment: fixed;
+border-radius: 5px;
+margin-top: 80px;
+margin-bottom: 80px;
+margin-right: auto;
+margin-left:auto;
+width: 400px;
+border: 1px solid white;
+text-align:center;
+
+}
+
+#submit{
+    background-color: red;
+    color:white ;
+    width: 180px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
